@@ -2,7 +2,7 @@
 	//database connection details
 	$host = 'mysqldb.cxbvknroesnt.us-east-1.rds.amazonaws.com';
 	$user = 'admin';
-	$password = 'password';
+	$password = 'Password123';
 	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
